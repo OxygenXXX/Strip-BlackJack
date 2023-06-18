@@ -51,7 +51,7 @@ init:
     image us_CG5 = "21/sp/us_CG5.png"
     image us_CG6 = "21/sp/us_CG6.png"
 
-    $ mods["CardGameIntro"] = u"Карты на раздевание"
+    $ mods["DEBUG_INTRO"] = u"Карты на раздевание"
     
     $ persona5_2_menu = "21/music/persona5_2_menu.ogg"
     image leaf_small_sm = "21/GUI/leaf_small.png"
@@ -80,7 +80,7 @@ init:
         imagebutton auto "21/GUI/mt_gui_%s.png" xalign .15 yalign .82 action [SetVariable("girl","mt_CG"), SetVariable("step",step+1), Jump("CardGame3")]
         imagebutton auto "21/GUI/sl_gui_%s.png" xalign .50 yalign .82 action [SetVariable("girl","sl_CG"), SetVariable("step",step+1), Jump("CardGame3")]
         imagebutton auto "21/GUI/us_gui_%s.png" xalign .85 yalign .82 action [SetVariable("girl","us_CG"), SetVariable("step",step+1), Jump("CardGame3")]
-    
+
 label CardGameIntro:
     $ ScoreOn = False
     scene disclaimerSM with dissolve
