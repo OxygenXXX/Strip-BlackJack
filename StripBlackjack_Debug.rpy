@@ -1,5 +1,5 @@
 
-label DEBUG_INTRO:
+label DEBUG_MAIN:
     show dv body first close
     dv "Um.. Hello?"
 
