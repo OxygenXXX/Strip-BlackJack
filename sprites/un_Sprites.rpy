@@ -1,7 +1,8 @@
 
 init -20: 
 
-    # Sprites for UN character, position: close
+    # Спрайты Лены Тихоновой
+    # Масштаб спрайтов: close
 
     image un body first close = Composite(
         (sprite_width_close, sprite_height_close),
@@ -18,7 +19,8 @@ init -20:
         (0, 0), "close/un/un_3_body.png"
     )
 
-    # Sprites for UN character, position: normal
+    # Спрайты Лены Тихоновой
+    # Масштаб спрайтов: normal 
 
     image un body first normal = Composite(
         (sprite_width_close, sprite_height_close),
@@ -35,7 +37,8 @@ init -20:
         (0, 0), "normal/un/un_3_body.png"
     )
 
-    # Sprites for UN character, position: far
+    # Спрайты Лены Тихоновой
+    # Масштаб спрайтов: far
 
     image un body first far = Composite(
         (sprite_width_close, sprite_height_close),

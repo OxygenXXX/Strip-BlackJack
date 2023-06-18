@@ -1,7 +1,8 @@
 
 init -20: 
 
-    # Sprites for MI character, position: close
+    # Спрайты Хатсуне Мику
+    # Масштаб спрайтов: close 
 
     image mi body first close = Composite(
         (sprite_width_close, sprite_height_close),
@@ -18,7 +19,8 @@ init -20:
         (0, 0), "close/mi/mi_3_body.png"
     )
 
-    # Sprites for MI character, position: normal
+    # Спрайты Хатсуне Мику
+    # Масштаб спрайтов: normal 
 
     image mi body first normal = Composite(
         (sprite_width_close, sprite_height_close),
@@ -35,7 +37,8 @@ init -20:
         (0, 0), "normal/mi/mi_3_body.png"
     )
 
-    # Sprites for MI character, position: far
+    # Спрайты Хатсуне Мику
+    # Масштаб спрайтов: far 
 
     image mi body first far = Composite(
         (sprite_width_close, sprite_height_close),

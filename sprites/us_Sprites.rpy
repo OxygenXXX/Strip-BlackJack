@@ -1,7 +1,8 @@
 
 init -20: 
 
-    # Sprites for US character, position: close
+    # Спрайты Ульяны Лениной
+    # Масштаб спрайтов: close
 
     image us body first close = Composite(
         (sprite_width_close, sprite_height_close),
@@ -18,7 +19,8 @@ init -20:
         (0, 0), "close/us/us_3_body.png"
     )
 
-    # Sprites for US character, position: normal
+    # Спрайты Ульяны Лениной
+    # Масштаб спрайтов: normal
 
     image us body first normal = Composite(
         (sprite_width_close, sprite_height_close),
@@ -35,7 +37,8 @@ init -20:
         (0, 0), "normal/us/us_3_body.png"
     )
 
-    # Sprites for US character, position: far
+    # Спрайты Ульяны Лениной
+    # Масштаб спрайтов: far
 
     image us body first far = Composite(
         (sprite_width_close, sprite_height_close),

@@ -1,7 +1,8 @@
 
 init -20: 
 
-    # Sprites for DV character, position: close
+    # Спрайты Алисы Двачевской
+    # Масштаб спрайтов: close 
 
     image dv body first close = Composite(
         (sprite_width_close, sprite_height_close),
@@ -28,7 +29,8 @@ init -20:
         (0, 0), "close/dv/dv_5_body.png"
     )
 
-    # Sprites for DV character, position: normal
+    # Спрайты Алисы Двачевской
+    # Масштаб спрайтов: normal 
 
     image dv body first normal = Composite(
         (sprite_width_close, sprite_height_close),
@@ -55,7 +57,8 @@ init -20:
         (0, 0), "normal/dv/dv_5_body.png"
     )
 
-    # Sprites for DV character, position: far
+    # Спрайты Алисы Двачевской
+    # Масштаб спрайтов: far 
 
     image dv body first far = Composite(
         (sprite_width_close, sprite_height_close),

@@ -1,7 +1,8 @@
 
 init -20: 
 
-    # Sprites for SL character, position: close
+    # Спрайты Славяны Ясеневой
+    # Масштаб спрайтов: close 
 
     image sl body first close = Composite(
         (sprite_width_close, sprite_height_close),
@@ -23,7 +24,8 @@ init -20:
         (0, 0), "close/sl/sl_4_body.png"
     )
 
-    # Sprites for SL character, position: normal
+    # Спрайты Славяны Ясеневой
+    # Масштаб спрайтов: normal 
 
     image sl body first normal = Composite(
         (sprite_width_close, sprite_height_close),
@@ -45,7 +47,8 @@ init -20:
         (0, 0), "normal/sl/sl_4_body.png"
     )
 
-    # Sprites for SL character, position: far
+    # Спрайты Славяны Ясеневой
+    # Масштаб спрайтов: far 
 
     image sl body first far = Composite(
         (sprite_width_close, sprite_height_close),
