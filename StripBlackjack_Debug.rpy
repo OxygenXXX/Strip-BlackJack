@@ -46,6 +46,8 @@ label .SpritesClose:
     show dv body fifth close
     dv "Спрайт: dv body fifth close"
 
+    hide dv
+
     # Визуальная отладка спрайтов Хатсуне Мику
     # Масштаб спрайтов: close
 
@@ -57,6 +59,8 @@ label .SpritesClose:
 
     show mi body third close
     dv "Спрайт: mi body third close"
+
+    hide mi
 
     # Визуальная отладка спрайтов Славяны Ясеневой
     # Масштаб спрайтов: close
@@ -73,6 +77,8 @@ label .SpritesClose:
     show sl body fourth close
     dv "Спрайт: sl body fourth close"
 
+    hide sl 
+
     # Визуальная отладка спрайтов Лены Тихоновой
     # Масштаб спрайтов: close
 
@@ -85,6 +91,8 @@ label .SpritesClose:
     show un body third close
     dv "Спрайт: un body third close"
 
+    hide un
+
     # Визуальная отладка спрайтов Ульяны Лениной
     # Масштаб спрайтов: close
 
@@ -96,6 +104,8 @@ label .SpritesClose:
 
     show us body third close
     dv "Спрайт: us body third close"
+
+    hide us
 
     return
 
@@ -124,6 +134,8 @@ label .SpritesNormal:
     show dv body fifth normal
     dv "Спрайт: dv body fifth normal"
 
+    hide dv
+
     # Визуальная отладка спрайтов Хатсуне Мику
     # Масштаб спрайтов: normal
 
@@ -135,6 +147,8 @@ label .SpritesNormal:
 
     show mi body third normal
     dv "Спрайт: mi body third normal"
+
+    hide mi
 
     # Визуальная отладка спрайтов Славяны Ясеневой
     # Масштаб спрайтов: normal
@@ -151,6 +165,8 @@ label .SpritesNormal:
     show sl body fourth normal
     dv "Спрайт: sl body fourth normal"
 
+    hide sl
+
     # Визуальная отладка спрайтов Лены Тихоновой
     # Масштаб спрайтов: normal
 
@@ -163,6 +179,8 @@ label .SpritesNormal:
     show un body third normal
     dv "Спрайт: un body third normal"
 
+    hide un
+
     # Визуальная отладка спрайтов Ульяны Лениной
     # Масштаб спрайтов: normal
 
@@ -174,6 +192,8 @@ label .SpritesNormal:
 
     show us body third normal
     dv "Спрайт: us body third normal"
+
+    hide us
 
     return
 
@@ -202,6 +222,8 @@ label .SpritesFar:
     show dv body fifth far
     dv "Спрайт: dv body fifth far"
 
+    hide dv
+
     # Визуальная отладка спрайтов Хатсуне Мику
     # Масштаб спрайтов: far
 
@@ -213,6 +235,8 @@ label .SpritesFar:
 
     show mi body third far
     dv "Спрайт: mi body third far"
+
+    hide mi
 
     # Визуальная отладка спрайтов Славяны Ясеневой
     # Масштаб спрайтов: far
@@ -229,6 +253,47 @@ label .SpritesFar:
     show sl body fourth far
     dv "Спрайт: sl body fourth far"
 
+
+    show sl bra first far
+    dv "Спрайт: sl body first far"
+
+    show sl bra second far
+    dv "Спрайт: sl body second far"
+
+    show sl bra third far
+    dv "Спрайт: sl body third far"
+
+    show sl bra fourth far
+    dv "Спрайт: sl body fourth far"
+
+
+    show sl panties first far
+    dv "Спрайт: sl body first far"
+
+    show sl panties second far
+    dv "Спрайт: sl body second far"
+
+    show sl panties third far
+    dv "Спрайт: sl body third far"
+
+    show sl panties fourth far
+    dv "Спрайт: sl body fourth far"
+
+
+    show sl swim first far
+    dv "Спрайт: sl body first far"
+
+    show sl swim second far
+    dv "Спрайт: sl body second far"
+
+    show sl swim third far
+    dv "Спрайт: sl body third far"
+
+    show sl swim fourth far
+    dv "Спрайт: sl body fourth far"
+
+    hide sl
+
     # Визуальная отладка спрайтов Лены Тихоновой
     # Масштаб спрайтов: far
 
@@ -241,6 +306,8 @@ label .SpritesFar:
     show un body third far
     dv "Спрайт: un body third far"
 
+    hide un
+
     # Визуальная отладка спрайтов Ульяны Лениной
     # Масштаб спрайтов: far
 
@@ -252,5 +319,7 @@ label .SpritesFar:
 
     show us body third far
     dv "Спрайт: us body third far"
+
+    hide us
 
     return
