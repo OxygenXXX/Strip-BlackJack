@@ -69,3 +69,82 @@ init -20:
         (sprite_width_close, sprite_height_close),
         (0, 0), "sprites/far/sl/sl_4_body.png"
     )
+
+
+    image sl bra first far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_1_body.png",
+        (0, 0), "sprites/far/sl/sl_1_bra.png",
+    )
+
+    image sl bra second far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_2_body.png",
+        (0, 0), "sprites/far/sl/sl_2_bra.png"
+    )
+
+    image sl bra third far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_3_body.png",
+        (0, 0), "sprites/far/sl/sl_3_bra.png"
+    )
+
+    image sl bra fourth far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_4_body.png",
+        (0, 0), "sprites/far/sl/sl_4_bra.png"
+    )
+
+
+    image sl panties first far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_1_body.png",
+        (0, 0), "sprites/far/sl/sl_1_panties.png"
+    )
+
+    image sl panties second far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_2_body.png",
+        (0, 0), "sprites/far/sl/sl_2_panties.png"
+    )
+
+    image sl panties third far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_3_body.png",
+        (0, 0), "sprites/far/sl/sl_3_panties.png"
+    )
+
+    image sl panties fourth far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_4_body.png",
+        (0, 0), "sprites/far/sl/sl_4_panties.png"
+    )
+
+
+    image sl swim first far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_1_body.png",
+        (0, 0), "sprites/far/sl/sl_1_bra.png",
+        (0, 0), "sprites/far/sl/sl_1_panties.png"
+    )
+
+    image sl swim second far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_2_body.png",
+        (0, 0), "sprites/far/sl/sl_2_bra.png",
+        (0, 0), "sprites/far/sl/sl_2_panties.png"
+    )
+
+    image sl swim third far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_3_body.png",
+        (0, 0), "sprites/far/sl/sl_3_bra.png",
+        (0, 0), "sprites/far/sl/sl_3_panties.png"
+    )
+
+    image sl swim fourth far = Composite(
+        (sprite_width_close, sprite_height_close),
+        (0, 0), "sprites/far/sl/sl_4_body.png",
+        (0, 0), "sprites/far/sl/sl_4_bra.png",
+        (0, 0), "sprites/far/sl/sl_4_panties.png"
+    )
