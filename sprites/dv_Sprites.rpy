@@ -33,27 +33,27 @@ init -20:
     # Масштаб спрайтов: normal 
 
     image dv body first normal = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_normal, sprite_height_normal),
         (0, 0), "sprites/normal/dv/dv_1_body.png"
     )
 
     image dv body second normal = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_normal, sprite_height_normal),
         (0, 0), "sprites/normal/dv/dv_2_body.png"
     )
 
     image dv body third normal = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_normal, sprite_height_normal),
         (0, 0), "sprites/normal/dv/dv_3_body.png"
     )
 
     image dv body fourth normal = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_normal, sprite_height_normal),
         (0, 0), "sprites/normal/dv/dv_4_body.png"
     )
 
     image dv body fifth normal = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_normal, sprite_height_normal),
         (0, 0), "sprites/normal/dv/dv_5_body.png"
     )
 
@@ -61,26 +61,26 @@ init -20:
     # Масштаб спрайтов: far 
 
     image dv body first far = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_far, sprite_height_far),
         (0, 0), "sprites/far/dv/dv_1_body.png"
     )
 
     image dv body second far = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_far, sprite_height_far),
         (0, 0), "sprites/far/dv/dv_2_body.png"
     )
 
     image dv body third far = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_far, sprite_height_far),
         (0, 0), "sprites/far/dv/dv_3_body.png"
     )
 
     image dv body fourth far = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_far, sprite_height_far),
         (0, 0), "sprites/far/dv/dv_4_body.png"
     )
 
     image dv body fifth far = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_far, sprite_height_far),
         (0, 0), "sprites/far/dv/dv_5_body.png"
     )

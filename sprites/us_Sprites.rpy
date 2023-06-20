@@ -23,17 +23,17 @@ init -20:
     # Масштаб спрайтов: normal
 
     image us body first normal = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_normal, sprite_height_normal),
         (0, 0), "sprites/normal/us/us_1_body.png"
     )
 
     image us body second normal = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_normal, sprite_height_normal),
         (0, 0), "sprites/normal/us/us_2_body.png"
     )
 
     image us body third normal = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_normal, sprite_height_normal),
         (0, 0), "sprites/normal/us/us_3_body.png"
     )
 
@@ -41,16 +41,16 @@ init -20:
     # Масштаб спрайтов: far
 
     image us body first far = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_far, sprite_height_far),
         (0, 0), "sprites/far/us/us_1_body.png"
     )
 
     image us body second far = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_far, sprite_height_far),
         (0, 0), "sprites/far/us/us_2_body.png"
     )
 
     image us body third far = Composite(
-        (sprite_width_close, sprite_height_close),
+        (sprite_width_far, sprite_height_far),
         (0, 0), "sprites/far/us/us_3_body.png"
     )
